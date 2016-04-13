@@ -31,7 +31,7 @@ $emoji = array(
  */
 switch($message) {
   // API погоды предоставлено OpenWeatherMap.
-  // @see http://openweathermap.org
+  @see http://openweathermap.org
   case '/pogoda':
     // Отправляем приветственный текст.
     $preload_text = 'Одну секунду, ' . $first_name . ' ' . $emoji['preload'] . ' Я уточняю для вас погоду..';
