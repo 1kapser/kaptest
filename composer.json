@@ -1,18 +1,1 @@
-{
-    "name": "1kapser/kaptest",
-    "description": "Telegram Bot PHP API",
-    "license": "MIT",
-    "keywords": [
-        "Telegram",
-        "Telegram-API",
-        "Telegram-Bot-API",
-        "Telegram-Bot-PHP"
-    ],
-    "support": {
-        "issues": "https://github.com/1kapser/kaptest/issues",
-        "wiki": "https://github.com/1kapser/kaptest/wiki",
-        "source": "https://github.com/1kapser/kaptest"
-   
-
-       }
-}
+{}
